@@ -3,3 +3,5 @@ This is my first github repository. According to githubs "hello world" beginner 
 
 Hi, my name is Ralf. I am fairly new to python programming and I am
 beginning to build a github profile to showcase my work.
+This is the first line written from my local computer after downloading 
+this repo.
